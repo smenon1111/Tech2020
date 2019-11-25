@@ -16,12 +16,18 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:text="Name"
-        tools:text="Anvika!" />
+        tools:text="TECHNOVATION 2020 WOW!" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Click Me" />
+        android:text="Button" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Anvika's Button" />
 
 </LinearLayout>
